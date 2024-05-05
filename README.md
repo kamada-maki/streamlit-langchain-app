@@ -1,6 +1,12 @@
 # Wikipedia 参照くん
 
-このアプリケーションは、Streamlit と OpenAI を使用して、ユーザーの質問に対して Wikipedia から情報を取得して回答するチャットボットです。
+このアプリケーションは、Streamlit と OpenAI を使用して、  
+ユーザーの質問に対してWikipedia から情報を取得して回答するチャットボットです。
+
+※精度はカイゼン中
+
+![スクリーンショット 2024-05-05 14 58 31](https://github.com/kamada-maki/streamlit-langchain-app/assets/74590047/adb5f989-1ef7-47cb-984d-12256272b453)
+
 
 ## セットアップ
 
@@ -26,5 +32,7 @@ source myenv/bin/activate
 streamlit run app.py --server.port 8080
 ```
 
-##　参考
+
+## 参考
+
 https://github.com/yoshidashingo/langchain-book
