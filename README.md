@@ -22,5 +22,9 @@
 
 ## 起動方法
 ```
+source myenv/bin/activate
 streamlit run app.py --server.port 8080
 ```
+
+##　参考
+https://github.com/yoshidashingo/langchain-book
